@@ -1,0 +1,13 @@
+﻿torch
+transformers
+qwen-vl-utils
+datasets
+pillow
+tqdm
+scikit-learn
+numpy
+pyyaml
+moviepy
+pydub
+edge-tts
+librosa
