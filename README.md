@@ -1,6 +1,6 @@
 # ARGUS
 
-Official code release for **ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**, accepted as a **CVPR 2026 Oral** paper.
+Official code release for **ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**, accepted as a **CVPR 2026** paper.
 
 ARGUS studies multimodal indirect prompt injection, where malicious instructions are hidden inside images, videos, or audio. This repository provides reproducible dataset construction, baseline evaluation, and the ARGUS defense pipeline.
 
