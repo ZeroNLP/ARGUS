@@ -6,6 +6,13 @@ ARGUS studies multimodal indirect prompt injection, where malicious instructions
 
 If this repo helps your research, please consider giving it a star and citing our paper.
 
+<p align="center">
+  <img src="assets/argus.jpg" alt="ARGUS Framework" width="800"/>
+</p>
+<p align="center">
+  <em>* <strong>Note:</strong> The framework diagram in the published paper contains a minor error. Please consider this version as the definitive one.</em>
+</p>
+
 ## Setup
 
 Create an environment with the packages in `requirements.txt`:
